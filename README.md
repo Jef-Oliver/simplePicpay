@@ -14,15 +14,6 @@ Abaixo você encontrará todos as informações necessárias para iniciar o seu 
 - Fique à vontade para perguntar qualquer dúvida aos recrutadores.
 - Fique tranquilo, respire, assim como você, também já passamos por essa etapa. Boa sorte! :)
 
-*Corpo do Email com o link do repositório do desafio*
-
->Seu Nome
->
->Nome do recrutador
->
->Link do repositório
->
->Link do Linkedin
 
 ### Sobre o ambiente da aplicação:
 
@@ -131,3 +122,7 @@ Caso não tenha atingido aceitavelmente o que estamos propondo acima, não iremo
 - https://martinfowler.com/articles/microservices.htm
 - https://docs.guzzlephp.org/en/stable/request-options.html
 - https://www.devmedia.com.br/rest-tutorial/28912
+
+  ## Prints do app testado no insomnia backend 100% funcional
+
+
