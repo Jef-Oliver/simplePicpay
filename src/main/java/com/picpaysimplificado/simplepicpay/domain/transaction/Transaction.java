@@ -22,10 +22,10 @@ public class Transaction {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private BigDecimal amount;
-    @ManyToOne
+    @ManyToOne //um usuário pode ter várias transações mas uma transação só pode ter um sender e um receiver
     @JoinColumn(name = "sender_id")
     private User sender;
-    @ManyToOne
+    @ManyToOne //um usuário pode ter várias transações relacioandas a ele, mas uma transação só pode ter um sender e um receiver
     @JoinColumn(name = "receiver_id")
     private User receiver;
     private LocalDateTime timestamp;
