@@ -110,20 +110,7 @@ Caso não tenha atingido aceitavelmente o que estamos propondo acima, não iremo
 - Documentação
 - Proposta de melhoria na arquitetura
 
-
-## Materiais úteis
-- https://picpay.com/site/sobre-nos
-- https://hub.packtpub.com/why-we-need-design-patterns/
-- https://refactoring.guru/
-- http://br.phptherightway.com/
-- https://www.php-fig.org/psr/psr-12/
-- https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing
-- https://github.com/exakat/php-static-analysis-tools
-- https://martinfowler.com/articles/microservices.htm
-- https://docs.guzzlephp.org/en/stable/request-options.html
-- https://www.devmedia.com.br/rest-tutorial/28912
-
-  ## Prints do app testado no insomnia backend 100% funcional
+## Prints do app testado no insomnia backend 100% funcional
 - <img align="center" alt="Jef-pic" height="150" style="border-radius:50px;" src="sin1.png">
 - <img align="center" alt="Jef-pic" height="150" style="border-radius:50px;" src="sin2.png">
 - <img align="center" alt="Jef-pic" height="150" style="border-radius:50px;" src="sin3.png">
