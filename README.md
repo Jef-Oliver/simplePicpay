@@ -124,5 +124,9 @@ Caso não tenha atingido aceitavelmente o que estamos propondo acima, não iremo
 - https://www.devmedia.com.br/rest-tutorial/28912
 
   ## Prints do app testado no insomnia backend 100% funcional
+- <img align="center" alt="Jef-pic" height="150" style="border-radius:50px;" src="sin1.png">
+- <img align="center" alt="Jef-pic" height="150" style="border-radius:50px;" src="sin2.png">
+- <img align="center" alt="Jef-pic" height="150" style="border-radius:50px;" src="sin3.png">
+- <img align="center" alt="Jef-pic" height="150" style="border-radius:50px;" src="sin4.png">
 
 
